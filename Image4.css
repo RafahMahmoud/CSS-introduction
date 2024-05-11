@@ -1,0 +1,13 @@
+table{
+    background-color: rgb(244, 243, 243);
+    border-spacing: 10px;
+}
+.hidden{visibility: hidden;}
+td{box-shadow: 1px 1px 3px 2px rgb(133, 133, 133);
+    padding: 3px;
+    background-color: rgb(201, 199, 199);
+color: rgb(1, 1, 90);
+font-family:  "Pixelify Sans", sans-serif;
+font-weight: 400;
+font-size: small;
+}

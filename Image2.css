@@ -1,0 +1,17 @@
+.cotainer{background-color: rgb(251, 251, 223);
+    border-right: 5px solid black;
+    width: 50%;
+    height: 500px;
+    padding: 10px 0px 10px 10px;
+    }
+    p{width: 200px;
+        height: 100px;
+        overflow: hidden;
+     background-color: rgb(231, 227, 227);
+     display: inline-block;
+    margin-right: 3%;}
+    .scrollarticle{height: 60px;
+        border-top: 4px solid black;
+    border-bottom: 5px solid black;
+    overflow-y: scroll;}
+    

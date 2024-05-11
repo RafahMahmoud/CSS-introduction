@@ -1,0 +1,19 @@
+h1{text-decoration: underline;
+font-size: larger;}
+hr{color:rgb(206, 204, 204);
+height: 2.5px;
+background-color: rgb(206, 204, 204);
+border: none;}
+p{color:blue;
+font-weight: bold;}
+pre, div, p{font-size: large;}
+.group1of-links{color: rgba(255, 208, 0, 0.675);}
+
+#link {color:brown;
+    background-color: yellow;}
+.group2of-links{color:red}
+.first-one-of-count{font-weight: bold;}
+ul div {color:blue}
+body{margin-left: 10%;
+margin-right: 10%;}
+.last-one-of-count{font-size: large;}
